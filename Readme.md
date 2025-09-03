@@ -29,7 +29,7 @@
 | MOSI | SI   | SPI data out |
 | MISO | SO   | SPI data in |
 | CS0  | CSn  | Chip select |
-| GPIO | GDO0/GDO2 | Interrupt / status lines |
+| X | GDO0/GDO2 | Interrupt / status lines |
 
 ---
 
